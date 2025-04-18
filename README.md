@@ -60,7 +60,7 @@ Test Scenarios
 3. Install Chrome Browser.
 4. Clone this repository:
 bash
-git clone https://github.com/your-username/saucedemo-automation.git
+git clone https://github.com/SaraShaikh07/SwagLabs
 
 5. Open the project in Intalia or Eclipse.
 6. Run the test suite with:
