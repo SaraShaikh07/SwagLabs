@@ -95,7 +95,7 @@ Tech Stack
 
 Author
 
-- Name: QA Automation Engineer
+- Name: Sara Shaikh
 - GitHub: [SaraShaikh07]
 
 ---
